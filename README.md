@@ -1,7 +1,6 @@
 # Olá, sou Cindy Haddad! 🙋‍♀️
 
-<img src="![p](https://github.com/cindyhaddad/cindyhaddad/assets/144475602/3025382f-72d5-44d5-9b70-73e0525b40be)
-.png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img align="right" height="220em" src="https://github.com/cindyhaddad/Ola-Mundo/assets/144475602/eb5fce26-bc0a-4305-9a36-853ba489e226.png"/>
 
 🎈Tenho 33 anos<br>  👩‍🎓 Sou graduada em Letras Língua Inglesa <br> 👩‍🎓 Especialista em Gestão de Pessoas e Gestão de Projetos <br> 📊 Apaixonada por Excel<br>  🌱Migrando para a área de dados <br> 💻 Pretendo tornar-me uma Analista de Dados<br> 📚 Bolsista do Bootcamp de **Ciências de Dados com Python**, do  Santander e Digital Innovation One (DIO) <br> 📚 Estou estudando: Python e Power BI 
 
@@ -24,4 +23,3 @@
 ## 📲 Mídias Sociais:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cindyhaddad) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/haddad.solucoes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/cindy-haddad07) 
 
-![Snake animation](https://github.com/CindyHaddad/CindyHaddad/blob/output/github-contribution-grid-snake.svg)
