@@ -6,16 +6,13 @@
 
 ## ⭐⭐⭐ GitHub Stats: 
 
-
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=cindyhaddad&theme=merko&hide_border=false)<br/>
- 
-
  <div> 
-  <img  height="207em" src="https://github-readme-stats.vercel.app/api?username=CindyHaddad&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=CindyHaddad&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyHaddad&layout=compact&langs_count=16&theme=merko"/> <br>
 </div>
 <br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=cindyhaddad&theme=merko&hide_border=false)<br/>
 
 ## 💻 Melhores Tecnologias:
 ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=plastic&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white)
