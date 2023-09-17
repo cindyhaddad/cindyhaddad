@@ -1,4 +1,4 @@
-# Olá, sou Cindy Haddad! 🙋‍♀️
+# Olá, sou Cindy Haddad! 
 
 <img align="right" height="220em" src="https://github.com/cindyhaddad/Ola-Mundo/assets/144475602/eb5fce26-bc0a-4305-9a36-853ba489e226.png"/>
 
@@ -7,7 +7,7 @@
 ## Hard Skills:
 👩‍🎓 Sou graduada em Letras Língua Inglesa <br> 👩‍🎓 Especialista em Gestão de Pessoas e Gestão de Projetos <br> 📊 Apaixonada por Excel<br>  🌱Migrando para a área de dados <br> 💻 Pretendo tornar-me uma Analista de Dados<br> 📚 Estou estudando: Python e Power BI 
 
-## Boootcamps: 
+## Boootcamp: 
 Bolsista do Bootcamp de **Ciências de Dados com Python**, do  Santander e Digital Innovation One (DIO)
     <a href="https://www.dio.me/">
      <img align="center" width="40px" src="https://hermes.digitalinnovation.one/assets/diome/logo-minimized.png"></a>
@@ -18,8 +18,8 @@ Bolsista do Bootcamp de **Ciências de Dados com Python**, do  Santander e Digit
 ## Estatísticas do GitHub: 
 
  <div> 
-  <img  height="150em" src="https://github-readme-stats.vercel.app/api?username=CindyHaddad&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyHaddad&layout=compact&langs_count=16&theme=merko"/> <br>
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=CindyHaddad&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyHaddad&layout=compact&langs_count=16&theme=merko"/> <br>
 </div>
 <br>
 
