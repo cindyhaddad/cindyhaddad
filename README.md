@@ -1,6 +1,6 @@
 # Olá, sou Cindy Haddad! 
 
-<img align="right" height="220em" src="https://github.com/cindyhaddad/Ola-Mundo/assets/144475602/eb5fce26-bc0a-4305-9a36-853ba489e226.png"/>
+<img align="right" height="300em" src="https://github.com/cindyhaddad/Ola-Mundo/assets/144475602/eb5fce26-bc0a-4305-9a36-853ba489e226.png"/>
 
 📍 Sou de Manaus/ Amazonas<br>  🎈Tenho 33 anos<br> 
 
