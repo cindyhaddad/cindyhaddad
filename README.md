@@ -20,8 +20,10 @@ Bolsista do Bootcamp de **Ciências de Dados com Python**, do  Santander e Digit
  <div> 
   <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=CindyHaddad&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
   <img align="right" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CindyHaddad&layout=compact&langs_count=16&theme=merko"/> <br>
-</div>
+     
+  </div>
 <br>
+
 
 ## Contribuições no GitHub:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=cindyhaddad&theme=merko&hide_border=false)<br/>
